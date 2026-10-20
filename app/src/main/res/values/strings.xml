@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">LogIn P1</string>
     <string name="textview">Create New Account</string>
+    <string name="email_text">Email</string>
+    <string name="password_hint">Admin123</string>
+    <string name="password_text">Password</string>
+    <string name="email_hint">exemple@gmail.com</string>
+    <string name="name_hint">Kevin Timus</string>
+    <string name="name_text">Full Name</string>
+    <string name="button_text">Sign up</string>
+    <string name="phone_hint">605 62 45 12</string>
+    <string name="phone_text">Telefon</string>
 </resources>
